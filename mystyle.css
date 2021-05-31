@@ -110,7 +110,7 @@ nav img{
     transition: 1s;
 }
 
-nav.fa{
+nav .fa{
     display: none;
 }
 
